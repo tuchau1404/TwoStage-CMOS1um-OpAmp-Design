@@ -51,15 +51,14 @@ This project focuses on the design and analysis of a two-stage operational ampli
 ---
 
 ## 6. Schematic
-*(Insert schematic image here)*  
+
 ![Op-Amp Schematic](./images/schematic.png)
 
 ---
 
 ## 7. Simulation Results
-*(Add Bode plot, transient response, and step response images)*  
 
-Example:  
+
 ![Bode Plot](./images/bode.plot.png)  
 
 
