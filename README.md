@@ -52,7 +52,7 @@ This project focuses on the design and analysis of a two-stage operational ampli
 
 ## 6. Schematic
 *(Insert schematic image here)*  
-![Op-Amp Schematic](./images/opamp_schematic.png)
+![Op-Amp Schematic](./images/schematic.png)
 
 ---
 
@@ -60,8 +60,8 @@ This project focuses on the design and analysis of a two-stage operational ampli
 *(Add Bode plot, transient response, and step response images)*  
 
 Example:  
-![Bode Plot](./images/bode_plot.png)  
-![Transient Response](./images/transient.png)
+![Bode Plot](./images/bode.plot.png)  
+
 
 ---
 
@@ -72,10 +72,9 @@ The designed two-stage CMOS 1 µm op-amp meets the desired performance metrics w
 
 ## 9. References
 - Sedra, A.S., Smith, K.C., *Microelectronic Circuits*.
-- Razavi, B., *Design of Analog CMOS Integrated Circuits*.
+- A. Sadeqi, J. Rahmani, S. Habibifar, Design Method for Two-Stage CMOS Operational Amplifier Applying 
+Load/Miller Capacitor Compensation, Computational Research Progress in Applied Science & Engineering, CRPASE: Transactions of 
+Electrical, Electronic and Computer Engineering 6 (2020) 153–162.
 
 ---
 
-## 10. Author
-**Name:** Tu Chau Hoang  
-**Role:** Circuit Designer (Analog IC Design)  
