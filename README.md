@@ -54,6 +54,26 @@ This project focuses on the design and analysis of a two-stage operational ampli
 
 ![Op-Amp Schematic](./images/schematic.png)
 
+--- 
+#### Netlists
+
+
+.model NMOS1 NMOS (LEVEL=1 KP=330u LAMBDA=0.04 VTO=0.7  CGSO=1.76e-10 CGDO=1.76e-10) 
+
+.model NMOS2 NMOS (LEVEL=1 KP=330u LAMBDA=0.04 VTO=0.7  CGSO=1.76e-10 CGDO=1.76e-10)
+
+.model PMOS3 PMOS (LEVEL=1 KP=750u  LAMBDA=0.05 VTO=-0.7 CGSO=1.60e-10 CGDO=1.60e-10)
+
+.model PMOS4 PMOS (LEVEL=1 KP=750u  LAMBDA=0.05 VTO=-0.7 CGSO=1.60e-10 CGDO=1.60e-10)
+
+.model NMOS5 NMOS (LEVEL=1 KP=495u LAMBDA=0.04 VTO=0.7  CGSO=3.52e-10 CGDO=3.52e-10)
+
+.model PMOS6 PMOS (LEVEL=1 KP=4700u  LAMBDA=0.05 VTO=-0.7 CGSO=1.60e-10 CGDO=1.60e-10)
+
+.model NMOS7 NMOS (LEVEL=1 KP=1540u LAMBDA=0.04 VTO=0.7  CGSO=3.52e-10 CGDO=3.52e-10)
+
+.model NMOS8 NMOS (LEVEL=1 KP=495u LAMBDA=0.04 VTO=0.7  CGSO=3.52e-10 CGDO=3.52e-10)
+
 ---
 
 ## 7. Simulation Results
